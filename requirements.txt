@@ -1,0 +1,4 @@
+requests
+asn1crypto
+pycryptodome
+bcrypt

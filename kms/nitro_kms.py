@@ -14,7 +14,7 @@ from Crypto.Cipher import AES, PKCS1_OAEP
 from Crypto.PublicKey import RSA
 from Crypto.Util.Padding import unpad
 
-from kms import libnsm
+import libnsm
 
 class NitroKms():
     """KMS interaction class."""
